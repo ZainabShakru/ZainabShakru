@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZainabShakru
+- 👋 Hi, I’m Zainab 
 - 👀 I’m interested in microcontrollers, robotics, embedded systems and IoT
 - 🌱 I’m currently learning Raspberry Pi and Xavier Jetson series
 - 💞️ I’m looking to collaborate on interesting and fulfilling projects
